@@ -1,4 +1,17 @@
 .header {
   background-color: blue;
   margin-top: -4%;
+  height: 50px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link {
+  color: yellow;
+font-size: medium;
+padding: 2px 2px;
+border-radius: 5px;
+border: 1px solid black;
 }
